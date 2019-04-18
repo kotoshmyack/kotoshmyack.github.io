@@ -1,1 +1,0 @@
-# kotoshmyack.github.io

@@ -1,7 +1,7 @@
 body{width: 100%}
 header{  display: block;
   background: #fefcea; /* Для старых браузров */
-    background: linear-gradient(to top,  #BC8F8F    , #800000   );
+    background: linear-gradient(to top,  #B0E0E6	   , #800000   );
  
        text-align:center;
        color:red

@@ -1,0 +1,63 @@
+body{width:100%;}
+header { background: #fefcea; /* Для старых браузров */
+     background:linear-gradient(45deg, #800000  , #C5DDE8)}
+#Men{}
+#left{
+ background: #fefcea; /* Для старых браузров */
+    background: linear-gradient(to top, #9400D3		   , #A52A2A  );;
+ width:150px;
+ float:left;
+ padding:10px;
+ margin: 10;
+}
+header{  display: block;
+  background: #fefcea; /* Для старых браузров */
+    background: linear-gradient(to top, #7B68EE , #8B008B	  );
+
+       text-align:center;
+       color:red
+       min-width:100%;
+       font-size:xx-large;
+       border:medium groove black;
+       border-color: #800000   #800000  #483D8B   #483D8B  ;
+      border-width: 5px;
+     box-shadow: inset 0 0 6px, 
+             0.4em 0.4em 5px rgba(122,122,122,0.5)}
+#center{
+  background: #fefcea; /* Для старых браузров */
+     background:linear-gradient(45deg,#9400D3	 , #B0E0E6);
+ margin:0px 20% 0px 20%;
+ width: 70%;
+	    height: 100%;
+ float:none
+; 
+ border-color: #800000   #800000  #483D8B   #483D8B  ;
+      border-width: 5px;
+     box-shadow: inset 0 0 6px, 
+             0.4em 0.4em 5px rgba(122,122,122,0.5)
+}
+#center > div img{width: 330px;
+height: 250px;
+	 margin:50px 50px 0px 0px}
+
+#center img{width: 330px;
+            height: 250px;
+            margin:10px 10px 10px 0px;
+            border-radius: 0 10px;
+            text-align:center;
+            box-shadow: inset 0 0 6px, 
+             0.4em 0.4em 5px rgba(122,122,122,0.5);
+            cursor:pointer;}
+          a{text-decoration:none;}}
+
+.menu { list-style:none;
+              margin:10;
+              padding:10px;
+              width:150px
+             }
+
+ul li a{text-decoration: none;
+}
+ul li{border: 2px solid #FFA07A;
+max-width: 90px;}
+

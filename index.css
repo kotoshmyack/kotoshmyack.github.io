@@ -48,7 +48,7 @@ ul li:active{color:black;
              0.4em 0.4em 5px rgba(122,122,122,0.5)
   background: #fefcea; /* Для старых браузров */
      background:linear-gradient(45deg, #800000  , #C5DDE8)}
-#center img{width: 300px;
+#center img{width: 330px;
             height: 250px;
             margin:10px 10px 10px 0px;
             border-radius: 0 10px;
